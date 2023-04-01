@@ -4,7 +4,6 @@ import cv2
 
 
 def detecet_face(image_path):
-
     image = cv2.imread(image_path)
 
     face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_alt2.xml')
@@ -14,24 +13,36 @@ def detecet_face(image_path):
     index = 0
     for (x, y, w, h) in faces:
         face = image[y: y + h, x: x + w]
-        nameOfImage = "face" + str(index) + ".jpg"
+        nameOfFaceImage = f"{os.path.basename(image_path)}Face{str(index)}.jpg"
         folder_path = "uploadedImages/faces"
-        image_path = os.path.join(folder_path, nameOfImage)
-        face_images.append(image_path)
-        cv2.imwrite(image_path, face)
+        faceImage_path = os.path.join(folder_path, nameOfFaceImage)
+        cv2.imwrite(faceImage_path, face)
+        face_images.append(faceImage_path)
         index = index + 1
 
 
-def detect_gender(image_path):
+def checkImageFormat(filename):
+    if filename.endswith(".jpg") or filename.endswith(".jpeg") or filename.endswith(".png"):
+        return True
+    else:
+        print(f"Could not determine image format for {filename}")
+        exit(1)
 
+
+def countNumberOfGenders(prediction):
+    N_men = prediction.count("Man")
+    N_women = prediction.count("Woman")
+    return N_men,N_women
+
+
+def detect_genders(image_path):
     gender_predictions = []
 
     detecet_face(image_path)
     folder_path = "uploadedImages/faces"
 
     for filename in os.listdir(folder_path):
-        if filename.endswith(".jpg") or filename.endswith(".jpeg") or filename.endswith(".png"):
-
+        if(checkImageFormat(filename)):
             image_path = os.path.join(folder_path,filename)
             image = cv2.imread(image_path)
             gender_prediction = DeepFace.analyze(image, actions=['gender'], enforce_detection=False)
@@ -39,7 +50,10 @@ def detect_gender(image_path):
             gender_prediction = gender_prediction["dominant_gender"]
             gender_predictions.append(gender_prediction)
 
-    return gender_predictions
+
+    N_men, N_women = countNumberOfGenders(gender_predictions)
+
+    return gender_predictions,N_men,N_women
 
 
 
