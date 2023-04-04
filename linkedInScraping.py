@@ -24,9 +24,33 @@ def login(driver):
 
     driver.implicitly_wait(10)
 
-    input("Type anything and enter to close the browser...")
+    input("Type anything and enter... ")
 
-    driver.quit()
+    driver.implicitly_wait(10)
+
+
+def find_images():
+    driver.implicitly_wait(10)
+
+    image_urls = []
+
+    for i in range(3):
+        elements = driver.find_elements(By.XPATH,"//img[contains(@class, 'ivm-view-attr__img--centered') and not(contains(@class, 'EntityPhoto'))]")
+        for element in elements:
+            image_url = element.get_attribute("src")
+            if(image_url in image_urls):
+                continue
+            else:
+                image_urls.append(image_url)
+
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+
+        driver.implicitly_wait(5)
+
+    for image_url in image_urls:
+        print(image_url)
+
 
 
 login(driver)
+find_images()

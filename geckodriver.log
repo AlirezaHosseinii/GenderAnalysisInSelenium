@@ -310,3 +310,1014 @@ JavaScript warning: https://static.licdn.com/sc/h/f17qz9e0m1hoimr4034x8yatl, lin
 1680419643452	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1680419673487	Marionette	INFO	Stopped listening on port 55262
 Dynamically enable window occlusion 1
+1680601096519	geckodriver	INFO	Listening on 127.0.0.1:57446
+1680601099597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofile99keYr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680601100309	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680601100315	Marionette	INFO	Listening on port 57460
+Read port: 57460
+WebDriver BiDi listening on ws://127.0.0.1:57447
+1680601100444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofile99keYr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57447/devtools/browser/4dc43601-390c-4dfb-83f3-309089c7c60e
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680601262344	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680601328707	Marionette	INFO	Stopped listening on port 57460
+Dynamically enable window occlusion 1
+1680601330630	geckodriver	INFO	Listening on 127.0.0.1:58589
+1680601333709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofile66RgjG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680601334018	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680601334022	Marionette	INFO	Listening on port 58604
+Read port: 58604
+WebDriver BiDi listening on ws://127.0.0.1:58590
+1680601334120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofile66RgjG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58590/devtools/browser/a5727eaa-d59a-4ef8-8731-49146153584c
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680601378643	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450956/layout20, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3408: TypeError: data.frameData.id is null
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680601862267	Marionette	INFO	Stopped listening on port 58604
+Dynamically enable window occlusion 1
+1680601864495	geckodriver	INFO	Listening on 127.0.0.1:60493
+1680601867614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofileZZwFyN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680601867916	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680601867920	Marionette	INFO	Listening on port 60513
+Read port: 60513
+WebDriver BiDi listening on ws://127.0.0.1:60494
+1680601868064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofileZZwFyN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60494/devtools/browser/e6779df7-08a0-4bcd-8870-b4c2aa5c2a20
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680601912150	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680601974465	Marionette	INFO	Stopped listening on port 60511680601974481	mozrunner::runner	INFO	Runni!!! error running onStopped callback: TypeError: callback is not a function
+"--remote-debugging-port" "60923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofilecYKq7C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680601974794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680601974797	Marionette	INFO	Listening on port 60930
+Read port: 60930
+WebDriver BiDi listening on ws://127.0.0.1:60923
+1680601974898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofilecYKq7C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60923/devtools/browser/7197421b-b704-4b78-ad58-cb84a4f610e1
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680602013352	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680602079235	Marionette	INFO	Stopped listening on port 60931680602079555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofileRE8ejR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680602079835	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680602079839	Marionette	INFO	Listening on port 61250
+Read port: 61250
+WebDriver BiDi listening on ws://127.0.0.1:61243
+1680602079958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofileRE8ejR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61243/devtools/browser/b07ebd86-1ded-4447-bfb2-848a8c027672
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680602105140	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.m1680603189655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofilefoxr5Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680603190240	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680603190244	Marionette	INFO	Listening on port 49831
+WebDriver BiDi listening on ws://127.0.0.1:49805
+Read port: 49831
+1680603190533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofilefoxr5Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49805/devtools/browser/208583ca-bae2-44d9-94de-15ee5310370f
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680603210745	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680603253902	Marionette	INFO	Stopped listening on port 49831
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofile5eEWup"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680603248611	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680603248615	Marionette	INFO	Listening on port 50379
+WebDriver BiDi listening on ws://127.0.0.1:50354
+Read port: 50379
+1680603248799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofile5eEWup\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50354/devtools/browser/26443e0e-b2d5-4c82-b0e2-3ab19f6dd417
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680603273859	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1679: Error: permitUnload is already running for this tab.
+1680607154468	Marionette	INFO	Stopped listening on port 50379
+Dynamically enable window occlusion 1
+JavaScript error: chrome://browser/content/browser.js, line 8166: uncaught exception: undefined
+.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680603320492	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680603320496	Marionette	INFO	Listening on port 51000
+Read port: 51000
+WebDriver BiDi listening on ws://127.0.0.1:50980
+1680603320635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofileYYEEKU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50980/devtools/browser/1021ac9a-33e7-45fb-8270-35f60b29e89e
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680603343479	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680607180614	Marionette	INFO	Stopped listening on port 51000
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofilehcYcGT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680603550825	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680603550828	Marionette	INFO	Listening on port 51476
+WebDriver BiDi listening on ws://127.0.0.1:51465
+Read port: 51476
+1680603551082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofilehcYcGT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51465/devtools/browser/dceb9cc4-3ee4-4e0b-b8a0-646758309d18
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680603592025	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1679: Error: permitUnload is already running for this tab.
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+1680607206944	Marionette	INFO	Stopped listening on port 51476
+Dynamically enable window occlusion 1
+JavaScript error: chrome://browser/content/browser.js, line 8166: uncaught exception: undefined
+[Parent 1452, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+g on port 51926
+WebDriver BiDi listening on ws://127.0.0.1:51908
+Read port: 51926
+1680603821154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofileYwftFd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51908/devtools/browser/3168524a-4954-4503-bf18-fd521bf1f5f6
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680603840522	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_UPDATE_NODES_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_updateNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:301:24\nupdateNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:236:13\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:195:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1595:22\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:59:13\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:59:13\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:59:13\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\nappendNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:59:13\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.error: "Unable to find target with innerWindowId:6442450962"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450964/domwalker18, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "[COMPATIBILITY_UPDATE_NODES_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_updateNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:301:24\nupdateNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:236:13\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:195:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1595:22\n"
+console.error: "[COMPATIBILITY_UPDATE_NODES_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_updateNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:301:24\nupdateNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:236:13\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:195:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1595:22\n"
+console.error: "[COMPATIBILITY_UPDATE_NODES_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_updateNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:301:24\nupdateNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:236:13\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:195:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1595:22\n"
+console.error: "[COMPATIBILITY_UPDATE_NODES_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_updateNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:301:24\nupdateNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:236:13\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:195:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1595:22\n"
+console.error: "[COMPATIBILITY_UPDATE_NODES_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_updateNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:301:24\nupdateNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:236:13\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:195:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1595:22\n"
+console.error: "[COMPATIBILITY_UPDATE_NODES_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_updateNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:301:24\nupdateNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:236:13\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:195:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1595:22\n"
+console.error: "[COMPATIBILITY_UPDATE_NODES_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_updateNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:301:24\nupdateNode/<@resource://devtools/client/inspector/compatibility/actions/compatibility.js:236:13\nthunk/</</<@resource://devtools/client/shared/redux/middleware/thunk.js:17:11\n_onMarkupMutation@resource://devtools/client/inspector/compatibility/CompatibilityView.js:195:28\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\n_onWalkerMutations/<@resource://devtools/client/inspector/markup/markup.js:1595:22\n"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'compatibility's method 'getNodeCssIssues'" "null has no properties"
+console.error: (new TypeError("null has no properties", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@resource://devtools/shared/protocol/Front.js:383:31\nDevTools RDP*request@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] Protocol error (TypeError): null has no properties from: server0.conn0.windowGlobal6442450948/compatibility265 (resource://devtools/server/actors/page-style.js:523:5)"
+console.error: "onPacket/<@rJavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680607566545	Marionette	INFO	Stopped listening on port 57628
+Dynamically enable window occlusion 1
+e@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+console.error: "[COMPATIBILITY_APPEND_NODE_FAILURE] this.parentFront is null"
+console.error: "get inspectorFront@resource://devtools/client/fronts/node.js:484:5\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:250:25\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:264:24\n_inspectNode@resource://devtools/client/inspector/compatibility/actions/compatibility.js:276:11\n"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1680607186647	Marionette	INFO	Stopped listening on port 51926
+Dynamically enable window occlusion 1
+[Parent 13824, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680606944853	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1680607567229	Marionette	INFO	Stopped listening on port 58025
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofile8Tv0eL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680607252317	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680607252321	Marionette	INFO	Listening on port 58582
+WebDriver BiDi listening on ws://127.0.0.1:58575
+Read port: 58582
+1680607252656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kian\\AppData\\Local\\Temp\\rust_mozprofile8Tv0eL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58575/devtools/browser/b4ca044e-3fb9-4951-868c-2efcd014779b
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/uoprw4zztbjn9z6xwl2a2ng1, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/565qd30rqg0ctkkoutqpavyv9, line 19287: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1gxdth0mq8iqy4evbvnd6p8ee, line 2519: unreachable code after return statement
+1680607326288	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1680607568890	Marionette	INFO	Stopped listening on port 58582
+Dynamically enable window occlusion 1
