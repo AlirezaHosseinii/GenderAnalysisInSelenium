@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 
 driver = webdriver.Firefox()
 
@@ -50,7 +51,24 @@ def find_images():
     for image_url in image_urls:
         print(image_url)
 
+    driver.implicitly_wait(10)
+
+
+def searchPeople_basedOnCountry(search_keyword):
+    search_field = driver.find_element(By.TAG_NAME,"input")
+    search_field.click()
+    search_field.clear()
+    search_field.send_keys(search_keyword)
+    search_field.send_keys(Keys.ENTER)
+    driver.implicitly_wait(10)
+
+    people_filter_button = driver.find_element(By.XPATH,"/html/body/div[5]/div[3]/div[2]/section/div/nav/div/ul/li[5]/button")
+    people_filter_button.click()
+
+    driver.implicitly_wait(10)
+
 
 
 login(driver)
 find_images()
+searchPeople_basedOnCountry("Data science")
